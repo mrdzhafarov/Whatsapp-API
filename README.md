@@ -4,6 +4,10 @@
 2. **Склонируйте репозиторий.**
 
 
+git clone git@github.com:mrdzhafarov/Whatsapp-API.git
+
+cd green-api-test-task
+
 3. **Установите зависимости.**
 
 ```bash
