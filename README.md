@@ -3,10 +3,13 @@
 1. **Утановите node.js & npm.**
 2. **Склонируйте репозиторий.**
 
-
+```bash
 git clone git@github.com:mrdzhafarov/Whatsapp-API.git
+```
 
-cd green-api-test-task
+```bash
+cd Whatsapp-API/ 
+```
 
 3. **Установите зависимости.**
 
